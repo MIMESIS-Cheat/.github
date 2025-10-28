@@ -4,6 +4,8 @@ The **MIMESIS Cheat** is a professional, all-in-one software designed to give pl
 
 Whether you're testing, exploring, or simply enjoying a fully powered run, MIMESIS lets you focus on gameplay — not grind.
 
+[![Get it](../btn.png)](#)
+
 ---
 
 ## ⚙️ Overview
