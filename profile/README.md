@@ -14,6 +14,8 @@ Each feature is toggle-based and adjustable through the overlay interface or con
 
 ---
 
+<img width="1006" height="271" alt="image" src="https://github.com/user-attachments/assets/e7bf6029-8d02-455e-ac7f-a235047f0a95" />
+
 ## 🎯 Key Features
 
 * [x] **Unlimited Item Ammo** — Keep every weapon or consumable at full capacity.
